@@ -1,5 +1,4 @@
 vasudhaa1987
-
 me@git123
 
 
@@ -11,3 +10,21 @@ git-commit - move the code form stage area to git repository
       1: status       2: update       3: revert       4: add untracked
       5: patch        6: diff         7: quit         8: help
     What now> 1
+cd D:
+cd GIT_Training
+git init - Initialized empty Git repository in D:/GIT_Training/.git/
+git config --list
+git config --global
+git config --global --list
+git config --global user.name "vasudha.anand"
+git config --global user.email "vasudha.anand@timesinternet.in"
+ls
+git status
+git add . or git add Code1.txt
+git commit
+git remote add origin https://github.com/vasudhaa1987/GIT_Training.git
+git remote rm origin https://github.com/vasudhaa1987/GIT_Training.git
+
+https://github.com/vasudhaa1987/GIT_Training.git
+lkmjnhb
+
